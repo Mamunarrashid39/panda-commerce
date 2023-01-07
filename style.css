@@ -85,3 +85,9 @@ border-top: none;
     font-size: inherit;
     line-height: inherit;
 }
+#ContactUs{
+   height: 300px;
+}
+#ContactUs h6{
+    color: gray;
+}
